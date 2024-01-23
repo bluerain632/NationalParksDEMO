@@ -1,4 +1,4 @@
-E-Project-2023 
+E-Project-2023
 T1.2309.M1-eProject-Group_3 
 Batch no.: T1.2309.M1
 
@@ -11,8 +11,11 @@ Project title: National Parks
 3 collaborators:
 
 Nguyen Trang Thanh Vu	Student1518661
+
 Son Phi Long	        Student1518668
-Le Tan Phat             Student1518646
+
+Le Tan Phat           Student1518646
+
 Tran Que Nghi	        Student1518656
 
 ============================
