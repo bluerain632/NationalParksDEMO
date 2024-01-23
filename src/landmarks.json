@@ -1,0 +1,93 @@
+[
+    {
+        "name":"Dam Sen",
+        "park":"P003",
+        "stt":1,
+        "info":"Dam Sen is one of the most famous landmarks in the Park. During the rising tide season, from August to November, the lotus queen blossoms, creating a scene of great ecstasy.",
+        "image":"Dam Sen.jpg"
+    },
+    {
+        "name":"Ho Sen",
+        "park":"P003",
+        "stt":2,
+        "info":"The Ho Sen is a large lake, located in the middle of forest. Ho Sen is a cool, perennial habitat for many bird species.",
+        "image":"Ho Sen.jpg"
+    },
+    {
+        "name":"Rung Tram",
+        "park":"P003",
+        "stt":3,
+        "info":"Forests are the characteristic ecosystem of Tram Chim. The forests, which are green and sprawling, create a space for peace and quiet.",
+        "image":"Rung Tram.jpg"
+    },
+    {
+        "name":"Con Tien",
+        "park":"P003",
+        "stt":4,
+        "info":"Con Tien is a land dune located in the middle of Tram Chim. Con Tien is home to many species of animals, especially the red - crowned crane, a rare species of bird.",
+        "image":"Con Tien.jpg"
+    },
+    {
+        "name":"Rice Field",
+        "park":"P003",
+        "stt":5,
+        "info":"Green rice field adjacent to the Tram Chim Park. In mature season, the golden field glows, creating a beautiful sight.",
+        "image":"Rice Field.jpg"
+    },
+    {
+        "name":"Bau Sau",
+        "park":"P001",
+        "stt":1,
+        "info":"Bau Sau is a wetland located in the south of Cat Tien National Park, and is home to the freshwater crocodile (Siamese crocodile), a Vietnamese crocodile species that was previously thought to be extinct.",
+        "image":"Bau Sau.jpg"
+    },
+    {
+        "name":"Con Tien",
+        "park":"P001",
+        "stt":2,
+        "info":"Con Tien is a  dune in the midst of forest. Con Tien are home to many species of animals, especially red - crowned cranes.",
+        "image":"Con Tien.jpg"
+    },
+    {
+        "name":"Ho Tram",
+        "park":"P001",
+        "stt":3,
+        "info":"Ho Tram is a large freshwater lake in the center of Tien National Park. The lake is home to many species of animals, especially red - crowned cranes.",
+        "image":"Ho Tram.jpg"
+    },
+    {
+        "name":"Xeo Can pagoda",
+        "park":"P002",
+        "stt":1,
+        "info":"The Xeo Can pagoda is a Khmer ancient temple, which is over 100 years old. The pagoda, situated in the middle of the wetter forests, provides a peaceful, tranquil setting. Arriving at the empty temple, the visitors shall enjoy the temple's unique architecture and learn about the culture of the people.",
+        "image":"Chủa Xẻo Cạn.jpg"
+    },
+    {
+        "name":"Trang Chim",
+        "park":"P002",
+        "stt":2,
+        "info":"The Trang Chim is an extensive wetland that is home to many waterfowl.",
+        "image":"Trảng chim.jpg"
+    },
+    {
+        "name":"Bat troughs",
+        "park":"P002",
+        "stt":3,
+        "info":"Bat troughs are where thousands of bats regularly roost.",
+        "image":"Dơi ngựa lớn.jpg"
+    },
+    {
+        "name":"Hoa Mai lake",
+        "park":"P002",
+        "stt":4,
+        "info":"The Hoa Mai lake is a vast freshwater lake, ideal for sightseeing.",
+        "image":"Hồ Hoa Mai.jpg"
+    },
+    {
+        "name":"Security History Zone 9",
+        "park":"P002",
+        "stt":5,
+        "info":"Security History Zone 9 is An important historical site in Vietnam. It served as a base for the French and our people's resistance in both anti-French and anti-American wars. When you arrive at the ruins, you'll find out the history of our people.",
+        "image":"Khu di tích lịch sử an ninh.jpg"
+    }
+]

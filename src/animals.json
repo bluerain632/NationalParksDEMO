@@ -1,0 +1,142 @@
+[
+    {
+        "name":"Red - crowned crane",
+        "park":"P003",
+        "stt":1,
+        "info":"The red - crowned crane is a rare species of bird called 'The Ambassador for Peace'. The red-crowned crane often migrates to the park during the wet season to feed and breed. The red - crowned crane has a large body, long neck, curved beaks, and rusty-white feathers. They often live in herds, feeding by picking up nuts, fruits, and small animals.",
+        "image":"Red - crowned crane.jpg"
+    },
+    {
+        "name":"Naked-neck crane",
+        "park":"P003",
+        "stt":2,
+        "info":"The naked-neck crane is a bird of the family Stork, with a large body and a long neck. A naked-neck stork usually lives in flocks, feeding in rice fields and ponds. The naked-neck stork is white, the neck is black, and the bill is usually eaten by taking fish, frogs, and other aquatic animals.",
+        "image":"Naked-neck crane.jpg"
+    },
+    {
+        "name":"White stork",
+        "park":"P003",
+        "stt":3,
+        "info":"The white stork is a large, white stork. The white stork usually lives in flocks, feeding in rice fields. The white stork is white, with a long bill and grey legs. They often feed by catching fishes, frogs, and other aquatic animals.",
+        "image":"White stork.jpg"
+    },
+    {
+        "name":"Mallard",
+        "park":"P003",
+        "stt":4,
+        "info":"The mallard is a bird of the ducks family, with a small, brown body. The mallard usually lives in herds, feeding in rice fields and lakes. The mallard has a brown body, a yellow bill, pink legs. They often feed by scavenging the soil for seeds, insects, and small aquatic species.",
+        "image":"Mallard.jpg"
+    },
+    {
+        "name":"Kingfisher",
+        "park":"P003",
+        "stt":5,
+        "info":"Kingfishers are birds that belong to the Kingfisher family, which are small in shape and have a blue-black fur. Kingfishers often live in waters, feeding by catching fish. Kingfisher is blue-black, with a long bill and grey legs. They usually perch on branches, watching around, when their prey is detected, rushing into the water to catch.",
+        "image":"Kingfisher.jpg"
+    },
+    {
+        "name":"Indochinese tigers",
+        "park":"P001",
+        "stt":1,
+        "info":"Indochinese tigers are rare, endangered tigers. Indochinese tigers often live in tropical rainforests, hunting small animals such as deer, deer, and so on.",
+        "image":"Hổ Đông Dương.jpg"
+    },
+    {
+        "name":"Gaur",
+        "park":"P001",
+        "stt":2,
+        "info":"The Gaur is a rare wild animal called the king of the forest. Gaur usually lives in tropical rainforests, feeding on grass, leaves, and other plants.",
+        "image":"Bò tót.jpg"
+    },
+    {
+        "name":"Bear",
+        "park":"P001",
+        "stt":3,
+        "info":"The bear is a rare wild animal and has a large, robust body. Bears often live in tropical rainforests, feeding on fruits, honey, and small animals",
+        "image":"Bear.jpg"
+    },
+    {
+        "name":"Boar",
+        "park":"P001",
+        "stt":4,
+        "info":"Boar is a common wild animal and has a large, robust body. Boar often live in tropical rainforests, feeding on grass, leaves, and other plants.",
+        "image":"Boar.jpg"
+    },
+    {
+        "name":"Leopard",
+        "park":"P001",
+        "stt":5,
+        "info":"Leopards are rare wild animals, large and healthy. Leopards usually live in tropical rainforests, hunting small animals such as deer, deer, and so on.",
+        "image":"Báo.jpg"
+    },
+    {
+        "name":"Snake",
+        "park":"P001",
+        "stt":6,
+        "info":"Snakes are common reptiles, of many different species. Snakes usually live in tropical rainforests, eating small animals such as rats and frogs.",
+        "image":"Cobra.jpg"
+    },
+    {
+        "name":"Buffalo",
+        "park":"P001",
+        "stt":7,
+        "info":"Buffalo is a rare wild animal and has a large, robust body. Buffalo generally live in tropical rainforests, feeding on grass, leaves, and other plants.",
+        "image":"Buffalo.jpg"
+    },
+    {
+        "name":"Red-crowned crane",
+        "park":"P001",
+        "stt":8,
+        "info":"The red - crowned crane is a rare species of bird called 'The Ambassador for Peace.' The red-crowned crane often migrates to The Cat Tien Park during the wet water season to feed and breed.",
+        "image":"Red-crowned crane.jpg"
+    },
+    {
+        "name":"Silver monkey",
+        "park":"P001",
+        "stt":9,
+        "info":"The silver monkey is a rare primate that is in danger of extinction. The silver monkey usually lives in tropical rainforests, eating the leaves, fruits, and other plants.",
+        "image":"Silver langur.jpg"
+    },
+    {
+        "name":"Boar",
+        "park":"P002",
+        "stt":1,
+        "info":"The boar is an omnivore, large size, that lives in groups. Boars are important animals in the u Minh Thuong ecosystem, they contribute to the decomposition of plant and animal carcasses, helping the forest to remain green.",
+        "image":"Lợn rừng.jpg"
+    },
+    {
+        "name":"Monkey",
+        "park":"P002",
+        "stt":2,
+        "info":"Monkeys are found in many species in U Minh Thuong, including long-tailed monkeys, pygmies, squirrel monkeys, and so on. The monkey is an omnivore, small in size, that lives in trees. Monkeys are animals of economic value and science used to study genes, biology, and so on.",
+        "image":"Khỉ.jpg"
+    },
+    {
+        "name":"Gibbon",
+        "park":"P002",
+        "stt":3,
+        "info":"Gibbon is known to have two species, the yellower gibbon and the black-cheeked white lemur. Apes are small, arboreal animals. Apes are rare, endangered animals.",
+        "image":"Vượn.jpg"
+    },
+    {
+        "name":"Otter",
+        "park":"P002",
+        "stt":4,
+        "info":"The otter has two species found in U Minh Thuong, the nostril otter and the baby otter. The otter is a small, fish-eating animal that lives underwater. They are economically valuable animals that are used for leather and fur.",
+        "image":"Rái cá.jpg"
+    },
+    {
+        "name":"Paradoxurus hermaphroditus",
+        "park":"P002",
+        "stt":5,
+        "info":"Paradoxurus hermaphroditus is an omnivore, small in size, and solitary. They are economically valuable; they are used for leather.",
+        "image":"Mèo cá.jpg"
+    },
+    {
+        "name":"Pangolin",
+        "park":"P002",
+        "stt":6,
+        "info":"The pangolin is a large, ant-eating animal that is solitary. The pangolin is a rare, endangered animal.",
+        "image":"Tê tê Java.jpg"
+    }
+]

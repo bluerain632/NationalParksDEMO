@@ -1,0 +1,65 @@
+[
+    {
+        "name":"Life of local people",
+        "park":"P003",
+        "stt":1,
+        "info":"Visitors can participate in local activities such as fishing, gathering, and so on. To understand more about the people west of the river.",
+        "image":"Life of local people.jpg"
+    },
+    {
+        "name":"Tour by canoe",
+        "park":"P003",
+        "stt":2,
+        "info":"It is the most popular way to visit in the Tram Chim Park. Visitors would be allowed to sit on their canoe, slip through the canals, tap the waterways, watch the lotus fields, the forests, and observe the wildlife.",
+        "image":"Tour by canoe.jpg"
+    },
+    {
+        "name":"To visit by canoe",
+        "park":"P001",
+        "stt":1,
+        "info":"To visit by canoe: It is the most popular way to visit in Cat Tien Park. Visitors would be allowed to sit on their canoes, slip through the canals, tap the waterways, watch the lotus fields, the forests, and observe the wildlife.",
+        "image":"Tour by canoe.jpg"
+    },
+    {
+        "name":"View sunrise and sunset",
+        "park":"P001",
+        "stt":2,
+        "info":"View sunrise and sunset: These are the two best times of the day to visit The Cat Tien Park. At dawn the sun shines, creating a magical, flickering scene. At sunset, the sun sets, creating a peaceful, poetic setting.",
+        "image":"Bình minh.jpg"
+    },
+    {
+        "name":"Experience the life of local people",
+        "park":"P001",
+        "stt":3,
+        "info":"Experience the life of local people: Visitors can participate in local activities such as fishing, gathering, and so on. To understand the lives of the people in the southeast.",
+        "image":"Life of local people.jpg"
+    },
+    {
+        "name":"Visit Tra Su cajuput forest",
+        "park":"P002",
+        "stt":1,
+        "info":"Visit Tra Su cajuput forest: The Park is one of the most popular tourist attractions in U Minh Thuong. Visitors will experience the feeling of sailing on small channels that make their way through thousands of uncut forests. Guests can visit the forest on a boat or on foot. If you travel by boat, you can see the beauty of the forests from above. If they walk, they will have the opportunity to explore the forest more realistically.",
+        "image":"Rừng tràm Trà Sư.jpg"
+    },
+    {
+        "name":"Experience the life of local people",
+        "park":"P002",
+        "stt":2,
+        "info":"Experience the life of local people: Visitors can visit traditional villages, enjoy local cuisine, and so on. To learn about the lives of the Khmer people.",
+        "image":"Trải nghiệm con người.jpg"
+    },
+    {
+        "name":"Tastes of the local cuisine",
+        "park":"P002",
+        "stt":3,
+        "info":"Tastes of the local cuisine: U Minh Thuong has many good dishes, including: wooded cakes, grilled cougars, and others.",
+        "image":"Đặc sản 2.jpg"
+    },
+    {
+        "name":"Visit historical and cultural relics",
+        "park":"P002",
+        "stt":4,
+        "info":"Visit historical and cultural relics: It has many cultural and historical sites, such as: The Temple of the President Ton Duc Thang, the relics of The Kien Giang Province, etc",
+        "image":"Trải nghiệm con người.jpg"
+    }
+]
